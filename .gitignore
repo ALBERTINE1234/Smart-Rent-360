@@ -1,0 +1,75 @@
+# # Python
+# __pycache__/
+# *.py[cod]
+# *$py.class
+# *.pyo
+# Environment
+.env
+
+# Database
+db.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+.DS_Store
+
+# # Virtual environments
+# .venv/
+# venv/
+# env/
+# ENV/
+
+# # Environment variables and secrets
+# .env
+# .env.*
+# !.env.example
+
+# # Django / Flask / local databases
+# *.sqlite3
+# db.sqlite3
+# instance/
+
+# # Logs
+# *.log
+# logs/
+
+# # Testing and coverage
+# .pytest_cache/
+# .coverage
+# htmlcov/
+
+# # Build artifacts
+# build/
+# dist/
+# *.egg-info/
+
+# # Dependency/tool caches
+# .mypy_cache/
+# .ruff_cache/
+# .tox/
+
+# # IDEs and editors
+# .vscode/
+# .idea/
+# *.swp
+# *.swo
+
+# # OS files
+# .DS_Store
+# Thumbs.db
+# venv/
+# __pycache__/
+# *.pyc
+# db.sqlite3
+# .env
+# .idea/
+# .vscode/
